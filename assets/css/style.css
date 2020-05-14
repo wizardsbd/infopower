@@ -1091,6 +1091,7 @@ section {
   .management .feature_img{height:220px;}
   .management .details{width:85%;}
   .team_member .feature_img{height:210px;}
+  .team_member .feature_img img{max-height:100%;}
   .feaure_blog .feature_img{text-align: center;}
   .feaure_blog .feature_img img{width:80%;}
   .right_image{background:none;}
