@@ -646,7 +646,7 @@ section {
 
 .right_image{
     background-image: url("https://infopowerbd.com/images/feature_right.png");
-        background-size: contain;"
+    background-size: contain;
     height: 650px;
     background-position: right top;
     background-repeat: no-repeat;
@@ -658,7 +658,6 @@ section {
 }
 
 /*Research*/
-
 
 
 /*--------------------------------------------------------------
@@ -1106,6 +1105,4 @@ section {
   }
   #footer .footer-info{margin-bottom:30px;}
   #footer .footer-top .footer-links ul i{font-size:50px;}
-
-
 }
